@@ -1,2 +1,2 @@
-# backend_pemula_dicoding
-Submission Belajar Membuat Aplikasi Back-End untuk Pemula di Dicoding.com
+# REST API SUBMISSION GOLANG
+Nama : Desi Suci Nopianti
